@@ -10,7 +10,11 @@
 </div>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/h_4_k_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-eacdc5?style=for-the-badge&logo=Instagram&logoColor=black"</a>
+</div>
+  
+<div align="center">  
+<a href="www.twitter.com" target="_blank"><img src="https://img.shields.io/badge/-Twitter-eacdc5?style=for-the-badge&logo=Twitter&logoColor=black"</a>
 </div>
   
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
