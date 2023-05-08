@@ -1,6 +1,6 @@
 ![HI I'M V1TOR](https://user-images.githubusercontent.com/121408231/225813385-649dbd0f-bb54-4215-b002-847f31f48e57.png)
 </BR></BR>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eacdc5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Santos;I'm+18+years+old;I'm+from+Brasil,+SP;I+study+at+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eacdc5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Santos;I'm+19+years+old;I'm+from+Brasil,+SP;I+study+at+Rocketseat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 </BR></BR>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=itsV1tor&bg_color=eacdc5&color=0f0f0f&line=0f0f0f&point=fefefc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </BR></BR>
