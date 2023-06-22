@@ -21,4 +21,5 @@
   <a href="https://twitter.com/Hashiuw" target="_blank"><img src="https://img.shields.io/badge/-Twitter-eacdc5?style=for-the-badge&logo=Twitter&logoColor=black"</a>
   <a href="https://www.linkedin.com/in/vitor-santos-5976a425a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-eacdc5?style=for-the-badge&logo=Linkedin&logoColor=black"</a>
   <a href="https://www.reddit.com/user/h4kv" target="_blank"><img src="https://img.shields.io/badge/-Reddit-eacdc5?style=for-the-badge&logo=Reddit&logoColor=black"</a>
+  <a href="https://codepen.io/H4KV" target="_blank"><img src="https://img.shields.io/badge/-Codepen-eacdc5?style=for-the-badge&logo=Codepen&logoColor=black"</a>
 </div>
