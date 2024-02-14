@@ -18,6 +18,6 @@
 </BR>
 <div align="center">  
   <a href="https://www.instagram.com/h4kv999/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=101820"/></a>
-  <a href="https://twitter.com/Hashiuw" target="_blank"><img src="https://img.shields.io/badge/-X-ffffff?style=for-the-badge&logo=X&logoColor=101820"/></a>
+  <a href="https://twitter.com/h4kv999" target="_blank"><img src="https://img.shields.io/badge/-X-ffffff?style=for-the-badge&logo=X&logoColor=101820"/></a>
   <a href="https://www.linkedin.com/in/vitor-santos-5976a425a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=101820"/></a>
 </div>
