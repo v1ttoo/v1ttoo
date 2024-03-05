@@ -1,10 +1,12 @@
 <h1 align="center">HI, I AM H4KV</h1>
 <h6 align="center">I'M WEB DEVELOPER</h6>
-</BR></BR>
+</BR>
 <div align="center">
-  <img width="70%"src="https://pa1.aminoapps.com/6352/d99071f792d67df51893558d6de091348c32d4ee_hq.gif" />
+  
+![0_F4t8-xz-b98ZcvEH](https://github.com/itsV1tor/itsV1tor/assets/121408231/10512724-2f0a-40c0-9e92-c656e31865cd)
+
 </div>
-</BR></BR>
+</BR>
 <h6 align="center">TECHNOLOGIES</h6>
 </BR>
 <div align="center">
