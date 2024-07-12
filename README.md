@@ -1,5 +1,5 @@
 <h1 align="center">HI, I AM H4KV</h1>
-<h6 align="center">I'M WEB DEVELOPER</h6>
+<h6 align="center">I'M WEB DEVELOPER & UI/UX DESIGNER</h6>
 </BR>
 <div align="center">
   
