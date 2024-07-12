@@ -20,5 +20,5 @@
 </BR>
 <div align="center">  
   <a href="https://www.instagram.com/h4kv999/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=101820"/></a>
-  <a href="https://twitter.com/h4kv999" target="_blank"><img src="https://img.shields.io/badge/-X-ffffff?style=for-the-badge&logo=X&logoColor=101820"/></a>
+  <a href="https://twitch.tv/h4kv999" target="_blank"><img src="https://img.shields.io/badge/-Twitch-ffffff?style=for-the-badge&logo=twitch&logoColor=101820"/></a>
 </div>
