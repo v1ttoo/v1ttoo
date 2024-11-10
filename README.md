@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'am Vitor</h1>
-<h6 align="center">I'M UI/UX DESIGNER | PIXEL ARTIST & SOLO GAME DEV</h6>
+<h6 align="center">I'M FRONT END DEVELOPER | PIXEL ARTIST & SOLO GAME DEV</h6>
 </BR>
 <div align="center">
 
