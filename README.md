@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'am Vitor</h1>
-<h6 align="center">I'M FRONT END DEVELOPER | PIXEL ARTIST & SOLO GAME DEV</h6>
+<h6 align="center">I'M FRONT END DEVELOPER 
+
 </BR>
+</BR>
+  
 <div align="center">
-
-![ukiki mario](https://tcrf.net/images/thumb/5/5c/SM64_MonkeyDeathAnimation.gif/200px-SM64_MonkeyDeathAnimation.gif)
-
+  
+![Snoopy Rotating](https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif)
+  
 </div>
+
 </BR>
 <h6 align="center">SOCIAL</h6>
 </BR>
