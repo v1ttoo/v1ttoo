@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'am Vitor</h1>
-<h6 align="center">I'M FRONT END DEVELOPER 
+<h6 align="center">I'M FRONT END DEVELOPER AND GAME DEV
 
 </BR>
 </BR>
